@@ -1,3 +1,3 @@
-# wp-branded-control-panel
+# WordPress Branded Control Panel
 
-A plugin for Wordpress which adds branding to the control panel for my company, Guava Design.
+A plugin for WordPress which adds branding to the control panel for my company, Guava Design.
